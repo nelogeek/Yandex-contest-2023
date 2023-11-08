@@ -1,0 +1,15 @@
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\bin\Debug\net6.0\Yandex_contest_2ex.exe
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\bin\Debug\net6.0\Yandex_contest_2ex.deps.json
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\bin\Debug\net6.0\Yandex_contest_2ex.runtimeconfig.json
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\bin\Debug\net6.0\Yandex_contest_2ex.dll
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\bin\Debug\net6.0\Yandex_contest_2ex.pdb
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.csproj.AssemblyReference.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.AssemblyInfoInputs.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.AssemblyInfo.cs
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.csproj.CoreCompileInputs.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.dll
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\refint\Yandex_contest_2ex.dll
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.pdb
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\Yandex_contest_2ex.genruntimeconfig.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest_2ex\obj\Debug\net6.0\ref\Yandex_contest_2ex.dll

@@ -1,0 +1,15 @@
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\bin\Debug\net6.0\Yandex_contest_1ex.exe
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\bin\Debug\net6.0\Yandex_contest_1ex.deps.json
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\bin\Debug\net6.0\Yandex_contest_1ex.runtimeconfig.json
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\bin\Debug\net6.0\Yandex_contest_1ex.dll
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\bin\Debug\net6.0\Yandex_contest_1ex.pdb
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.csproj.AssemblyReference.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.AssemblyInfoInputs.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.AssemblyInfo.cs
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.csproj.CoreCompileInputs.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.dll
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\refint\Yandex_contest_1ex.dll
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.pdb
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\Yandex_contest_1ex.genruntimeconfig.cache
+C:\Users\lokot\Desktop\Yandex_contest\Yandex_contest\obj\Debug\net6.0\ref\Yandex_contest_1ex.dll
